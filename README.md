@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,59 +10,59 @@
 - ⚡ Fun fact: ...
 
 ```javascript
-function test() {
-  console.log("notice the blank line before this function?");
-}
+### About Me 👋
 
- doe: "a deer, a female deer"
- ray: "a drop of golden sun"
- pi: 3.14159
- xmas: true
- french-hens: 3
- calling-birds:
-   - huey
-   - dewey
-   - louie
-   - fred
- xmas-fifth-day:
-   calling-birds: four
-   french-hens: 3
-   golden-rings: 5
-   partridges:
-     count: 1
-     location: "a pear tree"
-   turtle-doves: two
-   
-   
-
-name: Piyush Malhotra
-located_in: 'Montreal, Quebec'
+name: Maximiliano Lopez
+located_in: Santa Fe, Argentina
 current_job: Full Stack Developer
 education:
-  - Self-Taught Developer and Designer
-  - Master's in Electrical and Computer Engineering
-  - Bachelor's in Electronics and Communication
-company: Soulber
+  [
+    "Self-Taught Developer"
+  ]
+
 fields_of_interests:
-  - Web Development
-  - Data Science
-  - Machine Learning
-  - UI/UX
-  - Game Development
-  - DevOps
-technical_background:
-  - DevOps Solutions Architect
-  - Intern - Data Science & Machine Learning in Python
-  - Intern - Internet Of Things
-  - Intern - VLSI and FPGA Implementation
-currently_learning:
-  - 'Docker, Kubernetes and React Native'
-2022 Goals:
-  - Create 20+ Projects and learn at least 5 new Technologies.
-hobbies:
-  - Gaming
-  - Cinema
-  - Skateboarding
-  - Art
-  - Comedy
+  [
+    "Web Development",
+    "Mobile Development",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+  ]
+  
+currently_learning: ["Docker, Kubernetes and React Native"]
+2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+
+
+### Technologies
+
+const myStack = {
+  code: ["Javascript", "Java","HTML", "CSS"],
+  technologies: [
+    {
+      frontEnd: {
+        javascript: ["React", "Angular","Redux", "Redux/Toolkit", "Persist","React Native", "GraphQL", "CubeJs"],
+        css: ["Styled Components", "CSS Modules", "SASS", "Bootstrap"],
+      },
+    },
+    {
+      backEnd: {
+        javascript: ["NodeJS", "Express", "Sequelize", "Mongoose","Apollo Server"],
+      },
+      databases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
+    },
+    {
+      Others: {
+        authentication: ["Json Web Token"],
+        prototyping: ["Figma"],
+        library: ["Material UI"],
+      },
+    },
+  ],
+  currentStatus: ["✨Looking for a Job✨"],
+  locationPreferences: ["✨Fully Remote✨"],
+};
+
+
   ```
