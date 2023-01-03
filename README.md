@@ -1,8 +1,6 @@
 
-
-```yaml
 ### About Me 👋
-
+```yaml
 name: Maximiliano Lopez
 located_in: Santa Fe, Argentina
 current_job: Full Stack Developer
@@ -27,9 +25,9 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 
 ```
+### Technologies
 
 ```javascript
-### Technologies
 
 const myStack = {
   code: ["Javascript", "Java","HTML", "CSS"],
